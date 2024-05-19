@@ -1,0 +1,2 @@
+C:\Users\LCV2112650\Desktop\SpringEngine\External\DirectXTK\Bin\Desktop_2019\Win32\Debug\DirectXTK.lib
+C:\Users\Administrator\Desktop\GPU\SpringEngine\SpringEngine\External\DirectXTK\Bin\Desktop_2019\Win32\Debug\DirectXTK.lib

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\LCV2112650\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\LCV2112650\Desktop\SpringEngine\Tools\ModelImpoter\main.cpp(36,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LCV2112650\Desktop\SpringEngine\Tools\ModelImpoter\main.cpp(126,4): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'C:\Users\LCV2112650\Desktop\SpringEngine\x64\Debug\Physics.lib'

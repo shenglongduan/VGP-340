@@ -1,0 +1,30 @@
+﻿  LINK : C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\19_HelloSoftBody.exe not found or not built by the last incremental link; performing full link
+Bullet.lib(btAlignedAllocator.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btDiscreteDynamicsWorld.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btSoftBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btSoftRigidDynamicsWorld.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btPersistentManifold.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btQuickprof.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btGjkEpaPenetrationDepthSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btMinkowskiPenetrationDepthSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btRigidBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btTypedConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btConeTwistConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btGeneric6DofConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btGjkEpa2.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btMultiBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btPolarDecomposition.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(poly34.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btSoftBodyHelpers.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btDefaultSoftBodySolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btGjkPairDetector.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btPolyhedralContactClipping.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btSubSimplexConvexCast.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btVoronoiSimplexSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btRaycastCallback.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btVector3.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btConvexHullComputer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btGeometryUtil.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+Bullet.lib(btConvexHull.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+  19_HelloSoftBody.vcxproj -> C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\19_HelloSoftBody.exe

@@ -1,0 +1,2 @@
+-scale 0.01 ../../Assets/Models/Character_1/Character01.fbx ../../Assets/Models/Character_1/Character01.fbx
+-scale 0.01 ../../Assets/Models/Jumping/Jumping.fbx ../../Assets/Models/Jumping/Jumping.fbx

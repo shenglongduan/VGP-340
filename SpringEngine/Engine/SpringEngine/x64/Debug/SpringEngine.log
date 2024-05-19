@@ -1,0 +1,37 @@
+﻿  Precompiled.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(38,50): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\lcv2032587\Desktop\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1303,4):
+  	see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  
+  App.cpp
+  SpringEngine.cpp
+  Generating Code...
+  SpringEngine.vcxproj -> C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\SpringEngine.lib

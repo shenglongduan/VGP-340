@@ -1,0 +1,7 @@
+﻿  GameState.cpp
+C:\Users\LCV2112650\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\LCV2112650\Desktop\SpringEngine\VGP330\12_HelloTerrain\GameState.cpp(177,5): warning C4102: 'Math': unreferenced label
+  WinMain.cpp
+C:\Users\LCV2112650\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\LCV2112650\Desktop\SpringEngine\x64\Debug\Physics.lib'

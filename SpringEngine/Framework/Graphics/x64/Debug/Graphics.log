@@ -1,0 +1,156 @@
+﻿  Precompiled.cpp
+  Animation.cpp
+  AnimationBuilder.cpp
+  AnimationUtil.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '/Src/AnimationUtil.cpp')
+  
+  Animator.cpp
+  BillboardEffect.cpp
+  BlendState.cpp
+  Camera.cpp
+  ConstantBuffer.cpp
+  DebugUI.cpp
+  GraphicsSystem.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\GraphicsSystem.cpp(123,109): warning C4244: 'argument': conversion from 'float' to 'UINT8', possible loss of data
+  (compiling source file '/Src/GraphicsSystem.cpp')
+  
+  MeshBuffer.cpp
+  MeshBuilder.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\MeshBuilder.cpp(284,88): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/MeshBuilder.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\MeshBuilder.cpp(284,62): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/MeshBuilder.cpp')
+  
+  ModelIO.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(11,17): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(17,38): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(23,35): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(216,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(216,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(216,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(216,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 4 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(217,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(217,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(217,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(217,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 4 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(218,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(218,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(218,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(218,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 4 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(219,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(219,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(219,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(219,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 4 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(220,18): warning C4477: 'fscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(252,21): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(262,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(297,21): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(322,23): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(356,25): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(365,26): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file '/Src/ModelIO.cpp')
+  
+  ModelManager.cpp
+  PixelShader.cpp
+  PostProcessingEffect.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\PostProcessingEffect.cpp(109,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Src/PostProcessingEffect.cpp')
+  
+  RenderObject.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\RenderObject.cpp(20,2): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'SpringEngine::Graphics::ModelId'
+  (compiling source file '/Src/RenderObject.cpp')
+  C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\RenderObject.cpp(20,2):
+  consider using '%zd' in the format string
+  
+  RenderTarget.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\RenderTarget.cpp(83,77): warning C4244: 'argument': conversion from 'float' to 'UINT8', possible loss of data
+  (compiling source file '/Src/RenderTarget.cpp')
+  
+  Sampler.cpp
+  ShadowEffect.cpp
+  Generating Code...
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(187): warning C4715: 'SpringEngine::Graphics::ModelIO::SaveMaterial': not all control paths return a value
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\ModelIO.cpp(380): warning C4715: 'SpringEngine::Graphics::ModelIO::SaveAnimations': not all control paths return a value
+  Compiling...
+  SimpleDraw.cpp
+  SimpleEffect.cpp
+  StandardEffect.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '/Src/StandardEffect.cpp')
+  
+  Terrain.cpp
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(12,2): warning C4477: 'snprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'const std::filesystem::path::value_type *'
+  (compiling source file '/Src/Terrain.cpp')
+  C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(12,2):
+  consider using '%ls' in the format string
+  C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(12,2):
+  consider using '%lls' in the format string
+  C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(12,2):
+  consider using '%Ls' in the format string
+  C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(12,2):
+  consider using '%ws' in the format string
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(73,32): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '/Src/Terrain.cpp')
+  
+C:\Users\lcv2032587\Desktop\SpringEngine\Framework\Graphics\Src\Terrain.cpp(73,53): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '/Src/Terrain.cpp')
+  
+  TerrainEffect.cpp
+  Texture.cpp
+  TextureManager.cpp
+  VertexShader.cpp
+  Generating Code...
+  Graphics.vcxproj -> C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\Graphics.lib
