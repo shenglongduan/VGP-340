@@ -7,3 +7,4 @@ C:\Users\lucus\OneDrive\Desktop\SpringEngine\External\DirectXTK\Bin\Desktop_2019
 C:\Users\lcv2032587\Desktop\Assignment 2 Hello Model\SpringEngine\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
 C:\Users\LCV2112650\Desktop\SpringEngine\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
 C:\Users\lcv2032587\Desktop\SpringEngine\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib

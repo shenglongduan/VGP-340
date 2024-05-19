@@ -14,7 +14,7 @@ namespace SpringEngine::Physics
 		void Terminate();
 	private:
 		void Update() override;
-		btSoftBody* GetSoftbody();
+		btSoftBody* GetSoftBody() override;
 
 		btSoftBody* mSoftBody = nullptr;
 		Graphics::Mesh* mMesh = nullptr;

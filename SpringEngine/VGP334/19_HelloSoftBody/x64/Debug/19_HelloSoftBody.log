@@ -1,30 +1,72 @@
-﻿  LINK : C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\19_HelloSoftBody.exe not found or not built by the last incremental link; performing full link
-Bullet.lib(btAlignedAllocator.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btDiscreteDynamicsWorld.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btSoftBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btSoftRigidDynamicsWorld.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btPersistentManifold.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btQuickprof.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btGjkEpaPenetrationDepthSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btMinkowskiPenetrationDepthSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btRigidBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btTypedConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btConeTwistConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btGeneric6DofConstraint.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btGjkEpa2.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btMultiBody.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btPolarDecomposition.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(poly34.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btSoftBodyHelpers.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btDefaultSoftBodySolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btGjkPairDetector.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btPolyhedralContactClipping.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btSubSimplexConvexCast.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btVoronoiSimplexSolver.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btRaycastCallback.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btVector3.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btConvexHullComputer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btGeometryUtil.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-Bullet.lib(btConvexHull.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
-  19_HelloSoftBody.vcxproj -> C:\Users\lcv2032587\Desktop\SpringEngine\x64\Debug\19_HelloSoftBody.exe
+﻿  GameState.cpp
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(38,50): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\VGP334\19_HelloSoftBody\GameState.cpp(31,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\VGP334\19_HelloSoftBody\GameState.cpp(34,135): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\VGP334\19_HelloSoftBody\GameState.cpp(34,81): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\VGP334\19_HelloSoftBody\GameState.cpp(54,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'GameState.cpp')
+  C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1303,4):
+  	see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  
+  WinMain.cpp
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\Framework\Graphics\Inc\AnimationUtil.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(38,50): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  
+C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'WinMain.cpp')
+  C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1303,4):
+  	see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  
+  Generating Code...
+  19_HelloSoftBody.vcxproj -> C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\x64\Debug\19_HelloSoftBody.exe

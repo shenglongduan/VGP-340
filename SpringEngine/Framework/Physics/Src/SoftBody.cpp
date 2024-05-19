@@ -60,7 +60,7 @@ void SoftBody::Update()
 	}
 }
 
-btSoftBody* SoftBody::GetSoftbody()
+btSoftBody* SoftBody::GetSoftBody()
 {
 	return mSoftBody;
 }
