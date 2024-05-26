@@ -138,6 +138,9 @@
     <ClInclude Include="Inc\Animator.h">
       <Filter>Inc</Filter>
     </ClInclude>
+    <ClInclude Include="Inc\ParticleSyetemEffect.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Src\Precompiled.cpp">
@@ -223,6 +226,9 @@
       <Filter>Src</Filter>
     </ClCompile>
     <ClCompile Include="Src\Animator.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ParticleSyetemEffect.cpp">
       <Filter>Src</Filter>
     </ClCompile>
   </ItemGroup>

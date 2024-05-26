@@ -32,6 +32,6 @@ namespace SpringEngine::Graphics
 		static MeshPX CreateSkySpherePX(uint32_t slices, uint32_t rings, float radius);
 
 		// Screen Quad
-		static MeshPX CrearsScreenQuad();
+		static MeshPX CreateScreenQuad();
 	};
 }

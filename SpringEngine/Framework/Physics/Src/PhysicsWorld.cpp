@@ -48,14 +48,14 @@ void PhysicsWorld::Initialize(const Settings& settings)
 	mDynamicsWorld->setGravity(ConvertTobtVector3(settings.gravity));
 	mDynamicsWorld->setDebugDrawer(&mPhysicsDebugDraw);
 
-	mSoftBodyWorld = new btSoftRigidDynamicsWorld(mDispatcher, mInterface, msolver, mCollisionConfiguration);
-	mSoftBodyWorld->setGravity(ConvertTobtVector3(settings.gravity));
-	mSoftBodyWorld->setDebugDrawer(&mPhysicsDebugDraw);
+	//mSoftBodyWorld = new btSoftRigidDynamicsWorld(mDispatcher, mInterface, msolver, mCollisionConfiguration);
+	//mSoftBodyWorld->setGravity(ConvertTobtVector3(settings.gravity));
+	//mSoftBodyWorld->setDebugDrawer(&mPhysicsDebugDraw);
 }
 
 void PhysicsWorld::Terminate()
 {
-	SafeDelete(mSoftBodyWorld);
+	//SafeDelete(mSoftBodyWorld);
 	SafeDelete(mDynamicsWorld);
 	SafeDelete(msolver);
 	SafeDelete(mInterface);
@@ -66,7 +66,7 @@ void PhysicsWorld::Terminate()
 void PhysicsWorld::Update(float deltaTime)
 {
 	mDynamicsWorld->stepSimulation(deltaTime, mSettings.simulationSteps, mSettings.fixedTimeStep);
-	mSoftBodyWorld->stepSimulation(deltaTime, mSettings.simulationSteps, mSettings.fixedTimeStep);
+	//mSoftBodyWorld->stepSimulation(deltaTime, mSettings.simulationSteps, mSettings.fixedTimeStep);
 	for (PhysicsObject* obj : mPhysicsObjects)
 	{
 		obj->Update();
@@ -96,7 +96,7 @@ void PhysicsWorld::DebugUI()
 
 			mPhysicsDebugDraw.setDebugMode(debugMode);
 			mDynamicsWorld->debugDrawWorld();
-			mSoftBodyWorld->debugDrawWorld();
+			//mSoftBodyWorld->debugDrawWorld();
 		}
 	}
 }
@@ -109,7 +109,7 @@ void PhysicsWorld::Register(PhysicsObject* physicsObject)
 		mPhysicsObjects.push_back(physicsObject);
 		if (physicsObject->GetSoftBody() != nullptr)
 		{
-			mSoftBodyWorld->addSoftBody(physicsObject->GetSoftBody());
+			//mSoftBodyWorld->addSoftBody(physicsObject->GetSoftBody());
 		}
 		else if (physicsObject->GetRigidBody() != nullptr)
 		{
@@ -125,7 +125,7 @@ void PhysicsWorld::Unregister(PhysicsObject* physicsObject)
 	{
 		if (physicsObject->GetSoftBody() != nullptr)
 		{
-			mSoftBodyWorld->removeSoftBody(physicsObject->GetSoftBody());
+			//mSoftBodyWorld->removeSoftBody(physicsObject->GetSoftBody());
 		}
 		else if (physicsObject->GetRigidBody() != nullptr)
 		{

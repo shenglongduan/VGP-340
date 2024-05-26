@@ -1,11 +1,46 @@
-﻿  SoftBody.cpp
-C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\Framework\Physics\Src\SoftBody.cpp(17,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+﻿  Precompiled.cpp
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(38,50): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1232,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1357,21): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1361,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1385,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1387,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  (compiling source file 'Src/Precompiled.cpp')
+  C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1269,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\External\Bullet\BulletSoftBody\btSoftBody.h(1303,4):
+  	see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  
+  CollisionShape.cpp
+  PhysicsDebugDraw.cpp
+  PhysicsWorld.cpp
+  RigidBody.cpp
+  SoftBody.cpp
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\Framework\Physics\Src\SoftBody.cpp(17,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file '/Src/SoftBody.cpp')
   
-C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\Framework\Physics\Src\SoftBody.cpp(26,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\Framework\Physics\Src\SoftBody.cpp(26,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file '/Src/SoftBody.cpp')
   
-C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\Framework\Physics\Src\SoftBody.cpp(59,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\Framework\Physics\Src\SoftBody.cpp(59,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file '/Src/SoftBody.cpp')
   
-  Physics.vcxproj -> C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\x64\Debug\Physics.lib
+  Generating Code...
+  Physics.vcxproj -> C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\x64\Debug\Physics.lib

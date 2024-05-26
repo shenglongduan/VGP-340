@@ -1862,4 +1862,4 @@ btBulletCollisionAll.obj : warning LNK4006: "void __cdecl btPoolFree(void *)" (?
 btBulletCollisionAll.obj : warning LNK4006: "public: void __cdecl gim_contact_array::merge_contacts(class gim_contact_array const &,bool)" (?merge_contacts@gim_contact_array@@QEAAXAEBV1@_N@Z) already defined in gim_contact.obj; second definition ignored
 btBulletCollisionAll.obj : warning LNK4006: "public: void __cdecl gim_contact_array::merge_contacts_unique(class gim_contact_array const &)" (?merge_contacts_unique@gim_contact_array@@QEAAXAEBV1@@Z) already defined in gim_contact.obj; second definition ignored
 btBulletCollisionAll.obj : warning LNK4006: "class GIM_STANDARD_ALLOCATOR g_main_allocator" (?g_main_allocator@@3VGIM_STANDARD_ALLOCATOR@@A) already defined in btGenericPoolAllocator.obj; second definition ignored
-  Bullet.vcxproj -> C:\Users\lcv2032587\Desktop\VGP-340\SpringEngine\x64\Debug\Bullet.lib
+  Bullet.vcxproj -> C:\Users\lcv2032587\Desktop\xiaoyouxi\SpringEngine\x64\Debug\Bullet.lib
